@@ -1,6 +1,6 @@
 # 🛡 Industrial Sentinel: IIoT Security ROI Pipeline (2025–2026)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 > **Real-Time Anomaly Detection & Financial Impact Simulation**  
 > Dataset: [CIC IIoT 2025 — DataSense Benchmark](https://iotdataset.com/data/cic-iiot-dataset-2025-datasense) · [UNB](https://www.unb.ca/cic/datasets/iiot-dataset-2025.html) · [Kaggle](https://www.kaggle.com/datasets/muhammadirfangull/cic-iiot-2025)
 
